@@ -28,11 +28,11 @@ let nr11 = document.getElementById("nr11");
 let nr12 = document.getElementById("nr12");
 if (new Date() >= new Date("Mon Dec 6 2021 0:01")) {
   nr6.innerHTML =
-    "<a href='https://www.google.com/' target='blank'><h3>6</h3></a>";
+    "<a href='https://www.youtube.com/watch?v=O5tJq0CYVv4' target='blank'><h3>6</h3></a>";
   nr7.innerHTML =
     "<a href='https://scratch.mit.edu/projects/576707314/' target='blank'><h3>7</h3></a>";
   nr8.innerHTML =
-    "<a href='https://www.google.com/' target='blank'><h3>8</h3></a>";
+    "<a href='https://youtu.be/R1id7cPnPpU ' target='blank'><h3>8</h3></a>";
   nr9.innerHTML =
     "<a href=' https://youtu.be/5v1jwvElUgo' target='blank'><h3>9</h3></a>";
   nr10.innerHTML = "<a href='pdf/lucka2.pdf/' target='blank'><h3>10</h3></a>";
@@ -64,7 +64,7 @@ if (new Date() >= new Date("Mon Dec 13 2021 0:01")) {
   nr14.innerHTML =
     "<a href='https://youtu.be/B361bTZmKIk ' target='blank'><h3>14</h3></a>";
   nr15.innerHTML =
-    "<a href='https://www.google.com/' target='blank'><h3>15</h3></a>";
+    "<a href='https://www.youtube.com/watch?v=Ht1CijzNm-o' target='blank'><h3>15</h3></a>";
   nr16.innerHTML =
     "<a href='https://youtu.be/h25oZUwEy4I' target='blank'><h3>16</h3></a>";
   nr17.innerHTML = "<a href='pdf/lucka17.pdf' target='blank'><h3>17</h3></a>";
