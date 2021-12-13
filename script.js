@@ -92,7 +92,7 @@ if (new Date() >= new Date("Mon Dec 20 2021 0:01")) {
     "<a href=' https://youtu.be/zHHyGccPP0k' target='blank'><h3>22</h3></a>";
   nr23.innerHTML = "<a href='pdf/lucka23.pdf' target='blank'><h3>23</h3></a>";
   nr24.innerHTML =
-    "<a href='https://www.google.com/' target='blank'><h3>24</h3></a>";
+    "<a href='pdf/lucka24.pdf' target='blank'><h3>24</h3></a>";
 } else {
   nr20.innerHTML = "<a href='senare.html'><h3>20</h3></a>";
   nr21.innerHTML = "<a href='senare.html'><h3>21</h3></a>";
