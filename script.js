@@ -35,7 +35,7 @@ if (new Date() >= new Date("Mon Dec 6 2021 0:01")) {
     "<a href='https://youtu.be/R1id7cPnPpU ' target='blank'><h3>8</h3></a>";
   nr9.innerHTML =
     "<a href=' https://youtu.be/5v1jwvElUgo' target='blank'><h3>9</h3></a>";
-  nr10.innerHTML = "<a href='pdf/lucka2.pdf/' target='blank'><h3>10</h3></a>";
+  nr10.innerHTML = "<a href='pdf/lucka10.pdf/' target='blank'><h3>10</h3></a>";
   nr11.innerHTML =
     "<a href='https://scratch.mit.edu/projects/576722662/' target='blank'><h3>11</h3></a>";
   nr12.innerHTML =
